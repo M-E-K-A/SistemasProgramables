@@ -19,18 +19,11 @@ hay 3 tipos que son:
 - Activos.
 - Duales
 
-### Sensor de movimiento dual.
 
 Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
 
 ![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png "Ejemplo: El carro autonomo")
 
-Con frecuencia, los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
-
-Un tipo de cámara dual es la que en una posee sensor RGB y en la otra sensor  monocromo. Esto quiere decir que con una cámara puedes tomar fotos a color y con la otra en blanco y negro. De acuerdo con los fabricantes, esta alternativa combina ambas imágenes para que un sensor capture la luz y el color, mientras que el otro mejora el detalle. Además, éstas pueden ser usadas por separado.
-
-Otra cámara dual es aquella que, en lugar de poseer sensores monocromáticos y RGB, cuenta con cámaras teleobjetivos. Gracias a esto, los celulares tienen funciones como zoom óptico y gran angular.Aplicaciones más frecuentes de los sensores de movimiento 
-Son utilizados para la iluminación de zonas comunes como entradas, pasillos, etc.
 
 
 ventajas 
@@ -59,7 +52,15 @@ Ejemplo: Sistema de suspensión
 
 ### Duales.
 
-Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
+Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas
+
+Con frecuencia, los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
+
+Un tipo de cámara dual es la que en una posee sensor RGB y en la otra sensor  monocromo. Esto quiere decir que con una cámara puedes tomar fotos a color y con la otra en blanco y negro. De acuerdo con los fabricantes, esta alternativa combina ambas imágenes para que un sensor capture la luz y el color, mientras que el otro mejora el detalle. Además, éstas pueden ser usadas por separado.
+
+Otra cámara dual es aquella que, en lugar de poseer sensores monocromáticos y RGB, cuenta con cámaras teleobjetivos. Gracias a esto, los celulares tienen funciones como zoom óptico y gran angular.Aplicaciones más frecuentes de los sensores de movimiento 
+Son utilizados para la iluminación de zonas comunes como entradas, pasillos, etc.
+
 
 ![alt text](https://parkingaeropuertosevilla.net/wp-content/uploads/2016/05/p.jpg)
 Ejemplo: Carros autónomos 
