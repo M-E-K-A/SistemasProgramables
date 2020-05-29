@@ -98,3 +98,22 @@ Características eléctricas:
 
 ![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
+Referencias
+[1]https://blog.prosegur.es/sensores-de-movimiento-donde/
+
+[2]https://domoticaintegrada.com/sensor-de-movimiento/
+
+[3]https://www.aelca.es/es/nuestro-blog/cuanto-funciona-un-sensor-de-movimiento-para-iluminacion/
+
+[4]https://uss.com.ar/consejos-uss/boton-de-panico-inalambrico/
+
+[5]https://rodych.es/que-es-el-boton-de-panico-que-funcion-tiene-en-un-sistema-de-alarma/
+https://leantec.es/wp-content/uploads/2019/06/Leantec.ES-HC-SR04.pdf
+
+[6]http://www.agspecinfo.com/pdfs/H/HC-SR04.PDF
+
+[7]http://picmania.garcia-cuervo.net/recursos/redpictutorials/sensores/sensores_de_distancias_con_ultrasonidos.pdf
+
+[8]https://electrocrea.com/blogs/tutoriales/33306499-sensor-ultrasonico
+
+[9]http://www.electronica2000.com/alarma-de-panico-basada-en-arduino/
