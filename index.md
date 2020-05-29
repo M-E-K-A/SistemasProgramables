@@ -6,7 +6,7 @@ En esta pagina web vamos a exponer 3 sensores de seguridad que como equipo creem
 
 Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
 
-![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png)
+![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png "Ejemplo: El carro autonomo")
 
 ```markdown
 Syntax highlighted code block
