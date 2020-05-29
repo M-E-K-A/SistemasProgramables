@@ -8,6 +8,12 @@ Los detectores de movimiento emplean de manera conjunta los dos tipos de recepto
 
 ![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png "Ejemplo: El carro autonomo")
 
+Son sistemas de detección que funcionan a través de infrarrojos, se consideran pasivos porque el detector no emite ninguna señal para la identificación de una presencia.
+Así, un movimiento o un cambio significativo de temperatura harán que el sensor lance una alerta a la central a la que está conectado el sistema de seguridad.
+Ejemplo: Bolsa de aire
+![alt text](https://carplanet.mx/view/img/noticias/upload/-por-1.jpg)
+
+
 ```markdown
 Syntax highlighted code block
 
