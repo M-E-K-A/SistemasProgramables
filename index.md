@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Sensores de Seguridad.
 
-You can use the [editor on GitHub](https://github.com/M-E-K-A/SistemasProgramables/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+En esta pagina web vamos a exponer 3 sensores de seguridad que como equipo creemos son muy fundamentales para la seguridad del hogar y de nosotros mismos. Estos son: El sensor de movimiento dual, el boton de panico y el boton de ultrasonido. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sensor de movimiento dual.
 
-### Markdown
+Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png)
 
 ```markdown
 Syntax highlighted code block
