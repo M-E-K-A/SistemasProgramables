@@ -21,7 +21,9 @@ Ejemplo: Bolsa de aire
 Emiten un pulso o señal que es el que permite identificar la presencia de alguien en el interior de la estancia. Si este pulso se ve interferido, activará la alarma. 
 
 ![alt text](https://autolab.com.co/wp-content/uploads/2016/05/Header-Check-Engine_Mesa-de-trabajo-1.jpg)
+
 Ejemplo: Sistema de suspensión
+
 
 ### Duales.
 
