@@ -25,8 +25,23 @@ Los detectores de movimiento emplean de manera conjunta los dos tipos de recepto
 
 ![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png "Ejemplo: El carro autonomo")
 
-### Pasivos.
+Con frecuencia, los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
 
+Un tipo de cámara dual es la que en una posee sensor RGB y en la otra sensor  monocromo. Esto quiere decir que con una cámara puedes tomar fotos a color y con la otra en blanco y negro. De acuerdo con los fabricantes, esta alternativa combina ambas imágenes para que un sensor capture la luz y el color, mientras que el otro mejora el detalle. Además, éstas pueden ser usadas por separado.
+
+Otra cámara dual es aquella que, en lugar de poseer sensores monocromáticos y RGB, cuenta con cámaras teleobjetivos. Gracias a esto, los celulares tienen funciones como zoom óptico y gran angular.Aplicaciones más frecuentes de los sensores de movimiento 
+Son utilizados para la iluminación de zonas comunes como entradas, pasillos, etc.
+
+
+ventajas 
+- Ahorro energético. El hecho de que estos sensores de movimiento se apliquen también en la iluminación del hogar, 
+- Economía. El factor económico siempre es un motivo importante para decidir qué elementos instaurar en el hogar.
+- Tener la tranquilidad de que tu hogar está seguro ante cualquier movimiento inesperado y que las luces de tu casa se encenderán y apagan sin que tengas que apretar ningún.
+
+desventajas 
+- Mala calibración : En ocasiones hay un margen de error, los sensores no son exactos cuando no están bien calibrados 
+
+### Pasivos.
 Son sistemas de detección que funcionan a través de infrarrojos, se consideran pasivos porque el detector no emite ninguna señal para la identificación de una presencia.
 Así, un movimiento o un cambio significativo de temperatura harán que el sensor lance una alerta a la central a la que está conectado el sistema de seguridad.
 
