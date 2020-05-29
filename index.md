@@ -26,6 +26,8 @@ Ejemplo: Sistema de suspensión
 ### Duales.
 
 Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
+
+![alt text](https://parkingaeropuertosevilla.net/wp-content/uploads/2016/05/p.jpg)
 Ejemplo: Carros autónomos 
 
 ```markdown
