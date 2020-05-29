@@ -25,15 +25,6 @@ Los detectores de movimiento emplean de manera conjunta los dos tipos de recepto
 ![alt text](https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png "Ejemplo: El carro autonomo")
 
 
-
-ventajas 
-- Ahorro energético. El hecho de que estos sensores de movimiento se apliquen también en la iluminación del hogar, 
-- Economía. El factor económico siempre es un motivo importante para decidir qué elementos instaurar en el hogar.
-- Tener la tranquilidad de que tu hogar está seguro ante cualquier movimiento inesperado y que las luces de tu casa se encenderán y apagan sin que tengas que apretar ningún.
-
-desventajas 
-- Mala calibración : En ocasiones hay un margen de error, los sensores no son exactos cuando no están bien calibrados 
-
 ### Pasivos.
 Son sistemas de detección que funcionan a través de infrarrojos, se consideran pasivos porque el detector no emite ninguna señal para la identificación de una presencia.
 Así, un movimiento o un cambio significativo de temperatura harán que el sensor lance una alerta a la central a la que está conectado el sistema de seguridad.
@@ -61,6 +52,13 @@ Un tipo de cámara dual es la que en una posee sensor RGB y en la otra sensor  m
 Otra cámara dual es aquella que, en lugar de poseer sensores monocromáticos y RGB, cuenta con cámaras teleobjetivos. Gracias a esto, los celulares tienen funciones como zoom óptico y gran angular.Aplicaciones más frecuentes de los sensores de movimiento 
 Son utilizados para la iluminación de zonas comunes como entradas, pasillos, etc.
 
+Ventajas:
+- Ahorro energético. El hecho de que estos sensores de movimiento se apliquen también en la iluminación del hogar, 
+- Economía. El factor económico siempre es un motivo importante para decidir qué elementos instaurar en el hogar.
+- Tener la tranquilidad de que tu hogar está seguro ante cualquier movimiento inesperado y que las luces de tu casa se encenderán y apagan sin que tengas que apretar ningún.
+
+desventajas 
+- Mala calibración : En ocasiones hay un margen de error, los sensores no son exactos cuando no están bien calibrados 
 
 ![alt text](https://parkingaeropuertosevilla.net/wp-content/uploads/2016/05/p.jpg)
 Ejemplo: Carros autónomos 
@@ -100,36 +98,3 @@ Características eléctricas:
 
 ![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M-E-K-A/SistemasProgramables/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
