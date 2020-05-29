@@ -11,6 +11,14 @@ Hablaremos de cómo funcionan y en ejemplos se pueden utilizar, así como de car
 Durante mucho tiempo la tecnología a avanzado a pasos exponenciales en cuanto innovación que facilita la vida de los seres humanos, de esta misma manera aumenta la tecnología que perjudica la vida o bienes de los seres humanos, los robos, hackeos, secuestros, se han vuelto una tarea más fácil de hacer con la ayuda de los sensores de localización y espionaje, de igual manera como ingenieros debemos conocer y aplicar los sensores ya mencionados para crear nuevas tecnologías que nos permitan proteger a las personas, que nos generen la confiabilidad en nuestros equipos, hogares y lo más importante en nosotros como personas. Siempre garantizando el correcto uso de las tecnologías de seguridad para crear programas que en conjunto con hardware y software se apliquen en varias áreas, facilitando el cuidado de un perímetro.
 Los sensores que se emplean en la seguridad son un tema de interés de que a todos nos llama la atención, como se sabe actualmente la seguridad hoy en dia es un tema que a todos nos afecta por lo cual se se tratara los sensores aplicados en los sistemas de seguridad que se puedan implementar y sean eficientes para mantener un área monitoreada.
 
+### Sensores de movimiento
+Son los sensores que por lo general están incluidos en los sistemas de seguridad con alarmas convencionales. Son dispositivos que perciben las ondas de movimiento dentro de un área determinada y son capaces de emitir alertas inmediatas en cada repetición del movimiento. Deben estar presentes en todos los sistemas de seguridad con alarmas.
+ 
+hay 3 tipos que son:
+- Pasivos.
+- Activos.
+- Duales
+
 ### Sensor de movimiento dual.
 
 Los detectores de movimiento emplean de manera conjunta los dos tipos de receptores anteriores (pasivos y activos). De este modo consiguen abarcar un espectro de seguridad mucho más amplio y reducir el riesgo de que se produzcan falsas alarmas.
