@@ -32,6 +32,24 @@ Los detectores de movimiento emplean de manera conjunta los dos tipos de recepto
 ![alt text](https://parkingaeropuertosevilla.net/wp-content/uploads/2016/05/p.jpg)
 Ejemplo: Carros autónomos 
 
+
+### Botón de pánico.
+
+Su llamada de ayuda sólo puede ser detectada por la persona a la que se envía. Es discreto y evita delatar a los atacantes que se ha pedido ayuda de seguridad y ya está en camino.
+
+![alt text](https://www.asesoralarmas.com/blog/wp-content/uploads/2018/06/boton_panico-846x443.jpg)
+
+
+### Sensor de ultrasonido.
+
+Son detectores de proximidad que trabajan libres de roces mecánicos y que detectan objetos a distancias que van desde pocos centímetros hasta varios metros
+
+![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
