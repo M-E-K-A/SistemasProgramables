@@ -96,6 +96,10 @@ Características eléctricas:
 - Echo: Este pin es una salida del sensor, por lo que ha de ser conectado a una entrada del sistema de control. 
 - Gnd: Pin negativo de alimentación.
 
+### Ejemplo de Sensor de ultrasonido.
+Tenemos un ejemplo creado en Tinkercad 
+
+
 ![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
 Referencias
