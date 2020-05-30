@@ -2,17 +2,18 @@
 ## Sensores de Seguridad.
 
 En esta pagina web vamos a exponer 3 sensores de seguridad que como equipo creemos son muy fundamentales para la seguridad del hogar y de nosotros mismos. Estos son: El sensor de movimiento dual, el boton de panico y el boton de ultrasonido. 
+
 ![alt text](https://gifimage.net/wp-content/uploads/2018/05/security-gif-2.gif)
 
-### Resumen
+## Resumen
 los sensores empleados en los sistemas de seguridad son los de movimiento que se clasifican en tres: pasivos, activos y duales. otros de los sensores utilizados son los de ultrasonido, para detectar objetos o entidades.
 Hablaremos de cómo funcionan y en ejemplos se pueden utilizar, así como de características específicas para un óptimo desempeño de dichos sensores. 
 
-### Introducción
+## Introducción
 Durante mucho tiempo la tecnología a avanzado a pasos exponenciales en cuanto innovación que facilita la vida de los seres humanos, de esta misma manera aumenta la tecnología que perjudica la vida o bienes de los seres humanos, los robos, hackeos, secuestros, se han vuelto una tarea más fácil de hacer con la ayuda de los sensores de localización y espionaje, de igual manera como ingenieros debemos conocer y aplicar los sensores ya mencionados para crear nuevas tecnologías que nos permitan proteger a las personas, que nos generen la confiabilidad en nuestros equipos, hogares y lo más importante en nosotros como personas. Siempre garantizando el correcto uso de las tecnologías de seguridad para crear programas que en conjunto con hardware y software se apliquen en varias áreas, facilitando el cuidado de un perímetro.
 Los sensores que se emplean en la seguridad son un tema de interés de que a todos nos llama la atención, como se sabe actualmente la seguridad hoy en dia es un tema que a todos nos afecta por lo cual se se tratara los sensores aplicados en los sistemas de seguridad que se puedan implementar y sean eficientes para mantener un área monitoreada.
 
-### Sensores de movimiento
+## Sensores de movimiento
 Son los sensores que por lo general están incluidos en los sistemas de seguridad con alarmas convencionales. Son dispositivos que perciben las ondas de movimiento dentro de un área determinada y son capaces de emitir alertas inmediatas en cada repetición del movimiento. Deben estar presentes en todos los sistemas de seguridad con alarmas.
  
 hay 3 tipos que son:
@@ -64,11 +65,52 @@ desventajas
 ![alt text](https://parkingaeropuertosevilla.net/wp-content/uploads/2016/05/p.jpg)
 Ejemplo: Carros autónomos 
 
-### Ejemplo de sensor dual.
+## Ejemplo de sensor dual.
 Para este ejemplo nosotros utilizamos la combinación de un sensor PIR el cual actua como el pasivo, junto con un sensor Piezo el cual hace el papel de activo, en conjunto el PIR detecta que hay un objeto emitiendo calor mediante el sensor infrarrojo y manda la señal al sensor Piezo el cual emite una sonda de sonido de alta frecuencia que alerta al usuario de que se detecto un calor externo cuando la alarma fue activada. 
 
 # Video de programa diseñado en Tinkercad:
 [![Redireccionar al video](https://img.freepik.com/free-vector/video-media-player-design_114579-839.jpg?size=626&ext=jpg)](https://www.youtube.com/watch?v=Ip40KgxRY5o&feature=youtu.be&fbclid=IwAR1LZ4KHG_-my6VLWZjHGsAP1Sy26ogB8a47ydg55CIL6CfT9tI0ffMLrt8)
+
+## Codigo del ejemplo:
+```
+int val = 0;
+int pirState = LOW; 
+  
+void setup()
+{
+  pinMode(7, OUTPUT);
+  pinMode(8, OUTPUT);
+  pinMode(9, OUTPUT);
+  pinMode(10, INPUT);
+  pinMode(11, INPUT);
+  pinMode(12, OUTPUT);
+  pinMode(13, INPUT);
+  pinMode(A0, INPUT);
+  
+}
+
+void loop()
+{
+ const int button = digitalRead(10);
+ const int reset = digitalRead(12);
+ const int photoresistor = analogRead(A0);
+ const int pir = digitalRead(11);
+  if (button == HIGH || photoresistor >= 250 || pir == HIGH) {
+    digitalWrite(7, HIGH);
+    digitalWrite(8, LOW);
+    digitalWrite(9, HIGH);
+    tone(12, 587);
+  }
+  else {
+    digitalWrite(7, LOW);
+    digitalWrite(8, HIGH);
+    digitalWrite(9, LOW);
+    noTone(12);
+  }
+}
+
+```
+
 
 ### Botón de pánico.
 
@@ -77,7 +119,7 @@ Su llamada de ayuda sólo puede ser detectada por la persona a la que se envía.
 ![alt text](https://www.asesoralarmas.com/blog/wp-content/uploads/2018/06/boton_panico-846x443.jpg)
 
 
-### Sensor de ultrasonido.
+## Sensor de ultrasonido.
 
 Los sensores de ultrasonidos son detectores de proximidad que trabajan libres de roces mecánicos y que detectan objetos a distancias que van desde pocos centímetros hasta varios metros. El sensor emite un sonido y mide el tiempo que la señal tarda en regresar. Estos reflejan en un objeto, el sensor recibe el eco producido y lo convierte en señales eléctricas, las cuales son elaboradas en el aparato de valoración. Estos sensores trabajan solamente en el aire, y pueden detectar objetos con diferentes formas, colores, superficies y de diferentes materiales. Los materiales pueden ser sólidos, líquidos o polvorientos, sin embargo han de ser deflectores de sonido. Los sensores trabajan según el tiempo de transcurso del eco, es decir, se valora la distancia temporal entre el impulso de emisión y el impulso del eco.
 
@@ -109,11 +151,68 @@ Tenemos un ejemplo creado en Tinkercad en el cual hacemos uso de un sensor de ul
 
 ![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
+## Codigo del ejemplo
+```
+long readUltrasonicDistance(int triggerPin, int echoPin)
+  
+{
+pinMode(triggerPin, OUTPUT);
+digitalWrite(triggerPin, LOW);
+delayMicroseconds(2);
+digitalWrite(triggerPin, HIGH);
+delayMicroseconds(10);
+digitalWrite(triggerPin, LOW);
+pinMode(echoPin, INPUT);
+return pulseIn(echoPin, HIGH);
+}
 
-Archivo creado:
+void setup()
+{
+Serial.begin(9600);
+pinMode(10, OUTPUT);
+pinMode(9, OUTPUT);
+pinMode(8, OUTPUT);
+pinMode(11, OUTPUT);
+}
+
+void loop()
+{
+Serial.println(0.01723 * readUltrasonicDistance(5, 4));
+  if (0.01723 * readUltrasonicDistance(5, 4) < 325) 
+  {
+  digitalWrite(10, HIGH);
+  digitalWrite(9, LOW);
+  digitalWrite(8, LOW);
+  tone(11, 523, 500); 
+  delay(500); 
+  } 
+  else 
+  {
+    if (0.01723 * readUltrasonicDistance(5, 4) < 125) 
+    {
+    digitalWrite(10, LOW);
+    digitalWrite(9, HIGH);
+    digitalWrite(8, LOW);
+    tone(11, 523, 500); 
+    delay(1000); 
+    }
+    else 
+    {
+    noTone(11);
+    digitalWrite(10, LOW);
+    digitalWrite(9, LOW);
+    digitalWrite(8, HIGH);
+    }
+  }
+}
+```
+
+
+# Documento creado:
 - https://drive.google.com/file/d/1lp-zL5iqUcr_VDXIzw1Deo62qR1tXww9/view?usp=sharing
 
 
+# Referencias:
 [1]https://blog.prosegur.es/sensores-de-movimiento-donde/
 
 [2]https://domoticaintegrada.com/sensor-de-movimiento/
