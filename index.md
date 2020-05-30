@@ -67,7 +67,7 @@ Ejemplo: Carros autónomos
 Para este ejemplo nosotros utilizamos la combinación de un sensor PIR el cual actua como el pasivo, junto con un sensor Piezo el cual hace el papel de activo, en conjunto el PIR detecta que hay un objeto emitiendo calor mediante el sensor infrarrojo y manda la señal al sensor Piezo el cual emite una sonda de sonido de alta frecuencia que alerta al usuario de que se detecto un calor externo cuando la alarma fue activada. 
 
 # Video de programa diseñado en Tinkercad:
-[![Redireccionar al video](https://www.youtube.com/watch?v=Ip40KgxRY5o&feature=youtu.be&fbclid=IwAR1LZ4KHG_-my6VLWZjHGsAP1Sy26ogB8a47ydg55CIL6CfT9tI0ffMLrt8.jpg)](https://www.youtube.com/watch?v=Ip40KgxRY5o&feature=youtu.be&fbclid=IwAR1LZ4KHG_-my6VLWZjHGsAP1Sy26ogB8a47ydg55CIL6CfT9tI0ffMLrt8)
+[![Redireccionar al video](https://www.wintriss.com/wcg/knowledgebase/images/diffuse.gif)](https://www.youtube.com/watch?v=Ip40KgxRY5o&feature=youtu.be&fbclid=IwAR1LZ4KHG_-my6VLWZjHGsAP1Sy26ogB8a47ydg55CIL6CfT9tI0ffMLrt8)
 
 ### Botón de pánico.
 
