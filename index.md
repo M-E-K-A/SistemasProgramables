@@ -111,7 +111,7 @@ Tenemos un ejemplo creado en Tinkercad en el cual hacemos uso de un sensor de ul
 
 
 Archivo creado:
-https://drive.google.com/open?id=1g7mjSlW_7F5XxZnjqXpEe00TIAnTHQxxwAyObHAQTHs
+- https://drive.google.com/file/d/1lp-zL5iqUcr_VDXIzw1Deo62qR1tXww9/view?usp=sharing
 
 
 [1]https://blog.prosegur.es/sensores-de-movimiento-donde/
