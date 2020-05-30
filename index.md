@@ -212,6 +212,14 @@ Serial.println(0.01723 * readUltrasonicDistance(5, 4));
 # Documento creado:
 - https://drive.google.com/file/d/1lp-zL5iqUcr_VDXIzw1Deo62qR1tXww9/view?usp=sharing
 
+# Proyectos exportados de Tinkercad Circuit
+
+## Sensor de movmiento: Sensor dual
+https://drive.google.com/file/d/1RoTefZGHh-WOEfiOsmEKZIoSWL5yRRtG/view?usp=sharing
+
+## Sensor de movimiento: Sensor ultrasonido
+ src="https://www.tinkercad.com/things/jS4YoXVlIMO-incredible-krunk-fyyran/editel?tenant=circuits?sharecode=qTsCg399lzDkwygLC4o2uHE9WLgLvMlod5RknTMVG_U"
+
 
 # Referencias:
 [1]https://blog.prosegur.es/sensores-de-movimiento-donde/
