@@ -2,6 +2,7 @@
 ## Sensores de Seguridad.
 
 En esta pagina web vamos a exponer 3 sensores de seguridad que como equipo creemos son muy fundamentales para la seguridad del hogar y de nosotros mismos. Estos son: El sensor de movimiento dual, el boton de panico y el boton de ultrasonido. 
+![alt text](https://gifimage.net/wp-content/uploads/2018/05/security-gif-2.gif)
 
 ### Resumen
 los sensores empleados en los sistemas de seguridad son los de movimiento que se clasifican en tres: pasivos, activos y duales. otros de los sensores utilizados son los de ultrasonido, para detectar objetos o entidades.
@@ -101,9 +102,10 @@ Características eléctricas:
 - Echo: Este pin es una salida del sensor, por lo que ha de ser conectado a una entrada del sistema de control. 
 - Gnd: Pin negativo de alimentación.
 
-### Ejemplo de Sensor de ultrasonido.
-Tenemos un ejemplo creado en Tinkercad 
+# Ejemplo de Sensor de ultrasonido.
+Tenemos un ejemplo creado en Tinkercad en el cual hacemos uso de un sensor de ultrasonido donde por un lado sale la onda de sonido y por el otro se recibe, si detecta que esta onda de sonido regresa alterada manda una alerta al sensor con bocina para que emita la alarma y alertar al usuario de posible objeto acercandose.
 
+[![Alt text for your video](https://img.freepik.com/free-vector/video-media-player-design_114579-839.jpg?size=626&ext=jpg)](https://www.youtube.com/watch?v=wvajS5j75Gc&fbclid=IwAR3edWG-yI2-6iwA_A2UXJiePo6B97ghMHR2gI9sYNztGk4D3PsaubnmsVY)
 
 ![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
@@ -127,4 +129,4 @@ https://leantec.es/wp-content/uploads/2019/06/Leantec.ES-HC-SR04.pdf
 
 [9]http://www.electronica2000.com/alarma-de-panico-basada-en-arduino/
 
-[![Alt text for your video](https://i.ytimg.com/an_webp/_gFn0VQcG6o/mqdefault_6s.webp?du=3000&sqp=CPKvxvYF&rs=AOn4CLDJfRVchmvwCD_Wwk4zhC0e3O8KUw)](https://www.youtube.com/watch?v=_gFn0VQcG6o)
+
