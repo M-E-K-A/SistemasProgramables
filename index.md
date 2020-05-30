@@ -123,6 +123,8 @@ Su llamada de ayuda sólo puede ser detectada por la persona a la que se envía.
 
 Los sensores de ultrasonidos son detectores de proximidad que trabajan libres de roces mecánicos y que detectan objetos a distancias que van desde pocos centímetros hasta varios metros. El sensor emite un sonido y mide el tiempo que la señal tarda en regresar. Estos reflejan en un objeto, el sensor recibe el eco producido y lo convierte en señales eléctricas, las cuales son elaboradas en el aparato de valoración. Estos sensores trabajan solamente en el aire, y pueden detectar objetos con diferentes formas, colores, superficies y de diferentes materiales. Los materiales pueden ser sólidos, líquidos o polvorientos, sin embargo han de ser deflectores de sonido. Los sensores trabajan según el tiempo de transcurso del eco, es decir, se valora la distancia temporal entre el impulso de emisión y el impulso del eco.
 
+![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
+
 Los ultrasonidos son antes que nada sonido, exactamente igual que los que oímos normalmente, salvo que tienen una frecuencia mayor que la máxima audible por el oído humano. Ésta comienza desde unos 16 Hz y tiene un límite superior de aproximadamente 20 KHz, mientras que nosotros vamos a utilizar sonido con una frecuencia de 40 KHz. A este tipo de sonidos es a lo que llamamos Ultrasonidos. El funcionamiento básico de los ultrasonidos como medidores de distancia, se tiene un receptor que emite un pulso de ultrasonido que rebota sobre un determinado objeto y la reflexión de ese pulso es detectada por un receptor de ultrasonidos:
 d=½*V*t
 donde V es la velocidad del sonido en el aire y t es el tiempo transcurrido entre la emisión y recepción del pulso.
@@ -149,7 +151,6 @@ Tenemos un ejemplo creado en Tinkercad en el cual hacemos uso de un sensor de ul
 
 [![Alt text for your video](https://img.freepik.com/free-vector/video-media-player-design_114579-839.jpg?size=626&ext=jpg)](https://www.youtube.com/watch?v=wvajS5j75Gc&fbclid=IwAR3edWG-yI2-6iwA_A2UXJiePo6B97ghMHR2gI9sYNztGk4D3PsaubnmsVY)
 
-![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
 ## Codigo del ejemplo
 ```
