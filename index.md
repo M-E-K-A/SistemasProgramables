@@ -215,6 +215,7 @@ Serial.println(0.01723 * readUltrasonicDistance(5, 4));
 
 
 
+
 # Proyectos exportados de Tinkercad Circuit
 
 
@@ -225,6 +226,7 @@ https://drive.google.com/file/d/1RoTefZGHh-WOEfiOsmEKZIoSWL5yRRtG/view?usp=shari
 
 ## Sensor de movimiento: Sensor ultrasonido
  src="https://www.tinkercad.com/things/jS4YoXVlIMO-incredible-krunk-fyyran/editel?tenant=circuits?sharecode=qTsCg399lzDkwygLC4o2uHE9WLgLvMlod5RknTMVG_U"
+
 
 
 
