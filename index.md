@@ -109,7 +109,11 @@ Tenemos un ejemplo creado en Tinkercad en el cual hacemos uso de un sensor de ul
 
 ![alt text](https://www.circuitarte.com/wp-content/uploads/2019/05/hc-sr04-sensor-ultrasonido-medir-distrancia-arduino-3.png)
 
-Referencias
+
+Archivo creado:
+https://drive.google.com/open?id=1g7mjSlW_7F5XxZnjqXpEe00TIAnTHQxxwAyObHAQTHs
+
+
 [1]https://blog.prosegur.es/sensores-de-movimiento-donde/
 
 [2]https://domoticaintegrada.com/sensor-de-movimiento/
